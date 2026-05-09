@@ -1,4 +1,4 @@
-# social-scan-bd
+# social-scan
 
 Portable OpenClaw skill for fast cross-channel BD signal scans.
 
